@@ -1,0 +1,11 @@
+{
+  "name": "profile-assets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "raster": "node raster.mjs"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2"
+  }
+}
